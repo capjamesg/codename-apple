@@ -42,7 +42,6 @@
         (tag "a" text (list (attr "href" anchor)))
         (tag "p" (tag "a" text (list (attr "href" anchor))))))
 
-
 (defun writetofile (filename contents)
     (with-open-file (stream filename :direction :output :if-does-not-exist :create :if-exists :supersede)
         (format stream contents)))
