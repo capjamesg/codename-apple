@@ -1,0 +1,7 @@
+(load "generator.lisp")
+;; (load "frontmatter.lisp")
+;; (load "html.lisp")
+;; (load "pages/blog.lisp")
+;; (load "pages/templates.lisp")
+;; (load "pages/lists.lisp")
+;; (load "pages/maps.lisp")
