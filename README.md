@@ -49,9 +49,10 @@ This nests our `<a>` tag from earlier in a `<div>` with the class name `h-entry`
 
 ## TODOs
 
-[ ] Document how front matter parsing works.
-[ ] Add inline comments for all functions.
-[ ] Remove functions used for my specific website.
+- [ ] Document how front matter parsing works.
+- [ ] Add inline comments for all functions.
+- [ ] Remove functions used for my specific website.
+- [ ] Document example in `examples/` folder.
 
 ## Dependencies
 
